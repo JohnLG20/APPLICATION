@@ -1,0 +1,3 @@
+[Loader_Delay_Time]
+ASLRmemory_MaxAttempts=5000
+Readmemory_MaxWaitTime=30000
